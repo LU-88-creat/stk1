@@ -1,0 +1,17 @@
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@import "tailwindcss";
+
+body {
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+}
